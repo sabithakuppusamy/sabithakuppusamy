@@ -1,4 +1,4 @@
-![1642744820662](https://user-images.githubusercontent.com/24649829/177764340-59b98e6f-cc53-4c83-b680-9e7a5ae5d440.jpeg)
+<img width="719" alt="Screenshot 2022-07-07 at 5 17 02 PM" src="https://user-images.githubusercontent.com/24649829/177766132-6c9c9c70-f52e-47dd-a7cb-48eb555a9a05.png">
 
 ### Hello! I am Sabi👋
 
