@@ -1,4 +1,4 @@
-<img width="719" alt="Screenshot 2022-07-07 at 5 17 02 PM" src="https://user-images.githubusercontent.com/24649829/177766132-6c9c9c70-f52e-47dd-a7cb-48eb555a9a05.png">
+<img alt="Screenshot 2022-07-07 at 5 17 02 PM" src="https://user-images.githubusercontent.com/24649829/177766132-6c9c9c70-f52e-47dd-a7cb-48eb555a9a05.png">
 
 ### Hello! I am Sabi👋
 
