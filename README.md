@@ -9,3 +9,6 @@
 - 🤔 I’m looking for help with any UI challenges you face. I will try to help. We shall fix it together.
 - 📫 Reach me at sabi95oct@gmail.com
 
+Please find my dev card below,
+
+&emsp; &emsp; &emsp;&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; <a href="https://app.daily.dev/sabi"><img src="https://api.daily.dev/devcards/3091c62ba2754845871f4fe65b96feb2.png?r=xj0" width="400" alt="sabitha Kuppusamy's Dev Card"/></a>
