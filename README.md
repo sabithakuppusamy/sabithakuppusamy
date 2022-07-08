@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on my personal website using Next.js
 - 🌱 I’m currently learning about Websocket and WebRTC
-- 🤔 I’m looking for help with any UI challenges you face. I will try to help. We shall fix it together.
+- 🤔 I’m ready to help any UI challenges you face. We shall learn and fix it together.
 - 📫 Reach me at sabi95oct@gmail.com
 
 Please find my dev card below,
