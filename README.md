@@ -3,9 +3,6 @@
 ### Hello! I am Sabi👋
 
 🫶 Welcome to my Repo!🫶
-
-- 🔭 I’m currently working on my personal website using Next.js
-- 🌱 I’m currently learning about Websocket and WebRTC
 - 🤔 I’m ready to help any UI challenges you face. We shall learn and fix it together.
 - 📫 Reach me at sabi95oct@gmail.com
 
